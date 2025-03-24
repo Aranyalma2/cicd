@@ -1,4 +1,9 @@
-# General
+<h1 align="center"> CI/CD Labor</h1>
+<p align="center">
+
+[![Actions Status](https://github.com/Aranyalma2/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/Aranyalma2/cicd/actions)
+
+## General
 
 Ez a project a BME Felhők hálózati szolgáltatásai laboratórium (VITMMB11) tárgy CI/CD környezet kialakítása és alkalmazása 1 labor feladat elkészítéséhez jött létre.
 
@@ -12,6 +17,10 @@ amelyek:
 * statikus elemzést végeznek a kódon a programozási hibák kiszűrésére (→ lásd lint),
 * ellenőrzik a kódrészletek (funkcionálisan) helyes működését (→ lásd unit test).
 A folyamatos integráció tartalmazza a “build” lépést is, amely során az alkalmazás futtatható változata készül el (forráskód tárgykóddá alakításával, erőforrások linkelésével).
+
+## :link: Letöltés
+
+A legfrissebb build letölthető [innen](https://github.com/Aranyalma2/cicd/releases/tag/latest).
 
 
 ## :memo: License
